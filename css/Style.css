@@ -1,0 +1,201 @@
+/* Accueil */
+.btn_start{
+  top:100px;
+  position:relative;
+  width:100px;
+  height:50px;
+}
+
+.fond_color{
+background-color:#55595c!important;
+}
+
+.accueil_bloc_jeux{
+width:200px;
+height:200px;
+background-color:#99cdff;
+color:inherit;
+text-decoration:none;
+transition: transform 0.5s;
+}
+
+.accueil_bloc_jeux:hover{
+transform: translateY(-10px);
+}
+
+.center{
+margin-left:auto;
+margin-right:auto;
+}
+
+.logo_size{
+width:80px;
+height:80px;
+}
+
+/* Login & SignUp */
+.btn-login{
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+} 
+
+.bloc_input{
+  background-color:#eeeeee;
+}
+
+/* Jeu_Countdown */
+.btn_target{
+  top:-110px;
+  position:relative;
+  font-size:30px;
+  opacity:0;
+}
+
+.btn_timer{
+  top:0px;
+  position:relative;
+  font-size:50px;
+}
+
+.btn_result{
+  top:0px;
+  position:relative;
+  font-size:15px;
+  opacity:0;
+}
+
+.btn_retry{
+  top:80px;
+  position:relative;
+  font-size:20px;
+  opacity:100;
+}
+
+.bloc_jeux1{
+  width:375px;
+  height:175px;
+  background-color:#99cdff;
+  color:inherit;
+  text-decoration:none;
+  margin-left:75px;
+  margin-right:75px;
+  margin-top:50px;
+  margin-bottom:100px;
+}
+
+.bloc_jeux2{
+  width:900px;
+  height:100px;
+  background-color:#99cdff;
+  color:inherit;
+  text-decoration:none;
+  transition: transform 0.5s;
+  margin-left:75px;
+  margin-right:75px;
+  margin-bottom:100px;        
+}
+
+.bloc_jeux3{
+  width:900px;
+  height:400px;
+  background-color:#99cdff;
+  color:inherit;
+  text-decoration:none;
+  transition: transform 0.5s;
+  margin-left:75px;
+  margin-right:75px;
+  margin-bottom:100px;       
+}
+
+.title_score{
+  position:relative;
+  bottom:40px;
+  right:150px;
+  font-size:30px;
+}
+
+.title_pr{
+  position:relative;
+  bottom:30px;
+  right:115px;
+  font-size:17px;
+}
+
+.title_cd{
+  position:relative;
+  top:7px;
+  font-size:40px;
+}
+
+.title_ldb{
+  position:relative;
+  top:5px;
+  right:5px;
+  font-size:17px;
+}
+
+.title_top{
+  position:relative;
+  top:20px;
+  left:10px;
+  font-size:22px;
+}
+
+.title_top2{
+  position:relative;
+  top:9px;
+  left:2px;
+  font-size:22px;
+}
+
+.title_rank{
+  position:relative;
+  vertical-align: middle;
+  left:60px;
+  bottom:30px;
+  font-size:30px;
+}
+
+.title_rules{
+  position:relative;
+  bottom:40px;
+  right:13px;
+  font-size:30px;        
+}
+
+.title_text{
+  font-size:20px;
+  position:relative;
+  bottom:25px;
+}
+
+/* Dashboard */
+
+.color_top1{
+  background-color:#ffca18!important;
+}
+
+.color_top2{
+  background-color:#c0c0c0!important;
+}
+
+.color_top3{
+  background-color:#804b41!important;
+}
+
+.color_top25{
+  background-color:#5dcf1c!important;
+}
+
+.color_top50{
+  background-color:#eee043!important;
+}
+
+.color_top75{
+  background-color:#ef5219!important;
+}
+
+.color_top100{
+  background-color:#e00f0f!important;
+}
