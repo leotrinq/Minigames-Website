@@ -1,4 +1,4 @@
-# Web
-Site web de mini jeux avec html/css, php, SQL, javascript
-03/2023
+# Minigames Website
+Creation of a mini games website  
+03/2023  
 Léo Trinquet
